@@ -37,8 +37,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          I'm a versatile MERN developer with expertise in C++, and a strong background in machine learning and data science.
-          I'm passionate about crafting web applications and exploring the ever-evolving world of AI to create innovative 
+          I am a versatile MERN developer with expertise in C++, and a strong background in machine learning and data science.
+          I am passionate about crafting web applications and exploring the ever evolving world of AI to create innovative 
           solutions that push the boundaries of technology.
           </p>
           <div>

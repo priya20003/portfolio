@@ -15,6 +15,7 @@ export const theme = {
   },
   colors: {
     ...colors,
+    sky: 'your-light-blue-color-value',
     primary: purple,
     secondary: pink,
   },
